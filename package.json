@@ -1,0 +1,19 @@
+{
+  "name": "headlessbrowser",
+  "version": "1.0.0",
+  "description": "headless browser examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshiththota/headlessBrowser.git"
+  },
+  "author": "harshithThota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshiththota/headlessBrowser/issues"
+  },
+  "homepage": "https://github.com/harshiththota/headlessBrowser#readme"
+}
